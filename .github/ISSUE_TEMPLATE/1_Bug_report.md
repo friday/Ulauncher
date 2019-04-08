@@ -29,11 +29,9 @@ about: Report a bug in Ulauncher
 **Linux distro**:
 **Desktop environment**:
 
-### Logs
-<!--
+<details><summary>Logs</summary><pre>
   To get the logs please do the following:
   * Close the app
   * Run "ulauncher -v" from the console
-  * Copy output to https://gist.github.com/
-  * Add a link to the gist here
--->
+  * Copy the output and paste here
+</pre></details>
